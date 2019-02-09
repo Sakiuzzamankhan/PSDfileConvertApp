@@ -1,0 +1,99 @@
+F:\C#\psd\psd\bin\ApplicationInsights.config
+F:\C#\psd\psd\bin\roslyn\csc.exe
+F:\C#\psd\psd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\C#\psd\psd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\C#\psd\psd\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\C#\psd\psd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\C#\psd\psd\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\C#\psd\psd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\C#\psd\psd\bin\roslyn\System.Collections.Immutable.dll
+F:\C#\psd\psd\bin\roslyn\System.Reflection.Metadata.dll
+F:\C#\psd\psd\bin\roslyn\vbc.exe
+F:\C#\psd\psd\bin\roslyn\VBCSCompiler.exe
+F:\C#\psd\psd\bin\roslyn\VBCSCompiler.exe.config
+F:\C#\psd\psd\bin\psd.dll.config
+F:\C#\psd\psd\bin\psd.dll
+F:\C#\psd\psd\bin\psd.pdb
+F:\C#\psd\psd\bin\Microsoft.AI.Agent.Intercept.dll
+F:\C#\psd\psd\bin\Microsoft.AI.DependencyCollector.dll
+F:\C#\psd\psd\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\C#\psd\psd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\C#\psd\psd\bin\Microsoft.AI.Web.dll
+F:\C#\psd\psd\bin\Microsoft.AI.WindowsServer.dll
+F:\C#\psd\psd\bin\Microsoft.ApplicationInsights.dll
+F:\C#\psd\psd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\C#\psd\psd\bin\Microsoft.AI.DependencyCollector.xml
+F:\C#\psd\psd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\C#\psd\psd\bin\Microsoft.AI.Web.xml
+F:\C#\psd\psd\bin\Microsoft.AI.WindowsServer.xml
+F:\C#\psd\psd\bin\Microsoft.ApplicationInsights.xml
+F:\C#\psd\psd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\C#\psd\psd\obj\Debug\psd.csprojResolveAssemblyReference.cache
+F:\C#\psd\psd\obj\Debug\psd.dll
+F:\C#\psd\psd\obj\Debug\psd.pdb
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\ApplicationInsights.config
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\csc.exe
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\System.Collections.Immutable.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\System.Reflection.Metadata.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\vbc.exe
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\VBCSCompiler.exe
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\VBCSCompiler.exe.config
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\psd.dll.config
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\psd.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\psd.pdb
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.Agent.Intercept.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.DependencyCollector.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.Web.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.WindowsServer.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.ApplicationInsights.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.DependencyCollector.xml
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.Web.xml
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.WindowsServer.xml
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.ApplicationInsights.xml
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\obj\Debug\psd.csprojResolveAssemblyReference.cache
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\obj\Debug\psd.dll
+F:\C#\PSD file coverted by html n css(30 jan 19)\psd\obj\Debug\psd.pdb
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\ApplicationInsights.config
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\csc.exe
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\System.Collections.Immutable.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\System.Reflection.Metadata.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\vbc.exe
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\VBCSCompiler.exe
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\roslyn\VBCSCompiler.exe.config
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\psd.dll.config
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\psd.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\psd.pdb
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.DependencyCollector.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.Web.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.WindowsServer.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.ApplicationInsights.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.DependencyCollector.xml
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.Web.xml
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.AI.WindowsServer.xml
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.ApplicationInsights.xml
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\obj\Debug\psd.csprojResolveAssemblyReference.cache
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\obj\Debug\psd.dll
+F:\Web design project for demo\complete\PSD file coverted by html n css(30 jan 19)\psd\obj\Debug\psd.pdb
